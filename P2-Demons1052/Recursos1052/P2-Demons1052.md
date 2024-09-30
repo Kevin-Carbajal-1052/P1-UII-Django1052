@@ -1,0 +1,14 @@
+- Crear aplicacion CarbajalDemons_app
+- Comando --> python manage.py startapp CarbajalDemons_app
+- Creamos el archivo urls.py en CarbajalDemons_app
+- ![alt text](image.png)
+- En setting.py de webDemons_proy
+- ![alt text](image-1.png)
+- En urls.py de P2Demons1052
+- ![alt text](image-2.png)
+- En urls.py en CarbajalDemons_app
+- ![alt text](image-3.png)
+- En views.py en CarbajalDemons_app
+- ![alt text](image-4.png)
+- EN urls.py en CarbajalDemons_app
+- ![alt text](image-5.png)
